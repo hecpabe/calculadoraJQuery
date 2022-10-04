@@ -1,5 +1,12 @@
 
 
+/*
+    Título: Index
+    Name: Héctor Paredes Benavides
+    Descripción: Lógica de la calculadora
+    Fecha: 27/9/2022
+*/
+
 /* Declaraciones Globales */
 var borrarResultado = false;
 
